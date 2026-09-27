@@ -1,4 +1,4 @@
-# Infinite-Spritesheet-Helper
+# Love2d-Infinite-Spritesheet-Helper
 This is an add on for love2d. It deletes the background of sprite sheets, creates a JSON when one does not exist automatically, severely assists with offset values, basically makes sprite sheets way easier. I haven't seen this created yet. AND OBVIOUSLY DON'T USE SPRITE SHEETS YOU DON'T OWN OR HAVE PERMISSION FOR BLAH BLAH BLAH...
 
 I have not finished this yet.
